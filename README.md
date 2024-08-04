@@ -2,6 +2,10 @@
 
 This is a web application that converts currencies using the ExchangeRate-API. The application is built with HTML, CSS, and JavaScript, providing an easy-to-use interface for currency conversion.
 
+## Demo
+
+[Live Demo](https://fareed-currency-exchanger.netlify.app/)
+
 ## Features
 
 - **Currency Conversion**: Convert between different currencies using real-time exchange rates.
