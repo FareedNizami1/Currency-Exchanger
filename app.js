@@ -1,4 +1,4 @@
-const API_Key = CURRENCY_EXCHANGE_KEY;
+const API_Key = {CURRENCY_EXCHANGE_KEY};
 const Base_URL = `https://v6.exchangerate-api.com/v6/${API_Key}/latest/USD`;
 
 const dropdowns = document.querySelectorAll('.dropdown select');
